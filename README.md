@@ -1,4 +1,4 @@
-# rerun test
+# auto rerun test
 # Testing CI
 # testing dev with CI on jenkins
 # second test
