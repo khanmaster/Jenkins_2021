@@ -7,5 +7,6 @@
 - deploy test failed - retesting
 - CD build created in jenkins - will triger after ci build is successful
 - product testing - webhook updated with new jenkins IP
-- test failed due to permision
+- test failed due to permission
 - added new inbound rule to allow port 22
+- Webhook added with new jenkins ip
