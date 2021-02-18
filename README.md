@@ -9,4 +9,4 @@
 - product testing - webhook updated with new jenkins IP
 - test failed due to permission
 - added new inbound rule to allow port 22
-- Webhook added with new jenkins ip
+- Webhook added with new jenkins ip to test CI only
